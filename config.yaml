@@ -1,4 +1,4 @@
-baseURL: https://romas05.github.io/resume-hugo/
+baseURL: https://romas05.github.io/myCV/
 languageCode: en-us
 build:
   writeStats: true
